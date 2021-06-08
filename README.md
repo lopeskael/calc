@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img alt="" title="calc" src="assets/calc.jpg" width="500px" />
+  <img alt="" title="calc" src="assets/calc.jpg" width="1000px" />
   
 </p>
 
