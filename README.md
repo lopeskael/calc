@@ -8,3 +8,9 @@
   
 </p>
 
+#Dia 1 Após 5 horas de trabalho
+
+<p align="center">
+  <img alt="" title="calc" src="assets/calculadora08-06-2021.jpg" width="1000px" />
+  
+</p>
