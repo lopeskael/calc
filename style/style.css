@@ -1,0 +1,68 @@
+* {
+    box-sizing: border-box;
+    
+}
+.muda {
+    background-color: #FF3A3A;
+}
+.container-calc {
+    position: absolute;
+    display:flex;
+    left: 41%;
+    right: 41%;
+    top: 8%;
+    bottom: 8%;
+    background: linear-gradient(180deg, #DEDEDE 0%, #CACACA 50.52%, rgba(210, 210, 210, 1) 100%);
+    border-radius: 15px;
+    -webkit-box-shadow: -10px 30px 50px rgba(50, 50, 50, 0.77);
+	-moz-box-shadow:    -10px 30px 50px rgba(50, 50, 50, 0.77);
+	box-shadow:         -10px 30px 50px rgba(50, 50, 50, 0.77);
+}
+.screen {
+    position: absolute;
+    left: 7%;
+    right: 7%;
+    top: 17%;
+    bottom: 60%;
+    background-color:rgba(184, 205, 211, 0);
+    border-radius: 3.7879px;
+    text-align: right;
+}
+#operacao {
+    background-color:rgba(184, 205, 211, 0);
+    font-size: small;
+
+}
+#resultado {
+
+    background-color:rgba(184, 205, 211, 0);
+    font-size: larger;
+
+}
+.container-keyboard {
+    position: absolute;
+    left: 1%;
+    right: 1%;
+    top: 40.3%;
+    bottom: 10%;
+    background-color: rgba(190, 45, 93, 0) ;
+    border-radius: 3.7879px;
+}
+.container-keyboard {
+    display: grid;
+    grid: repeat(5, 20%) / auto-flow 25%;
+    
+}
+button {
+    background: rgba(217,217,217,0);
+    border: hidden;
+    cursor: pointer;
+
+}
+.operationM {
+    color: #FF3A3A;
+}
+.operationM-equal {
+    color: #FF3A3A;
+}
+

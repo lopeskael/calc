@@ -4,9 +4,42 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="boostrap/css/bootstrap.min.css"> 
+    <script src="https://kit.fontawesome.com/3315dc13d5.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins">
+    <script type="text/javascript" src="script/script.js"></script>
+    <script src="https://kit.fontawesome.com/3315dc13d5.js" crossorigin="anonymous"></script>
+    <title>CalculadoraKAEL</title>
 </head>
-<body>
-    
+<body class="muda">
+    <div class="container-calc">
+        <h1 class="screen">
+            <p id="operacao">45 x 8 / 2</p>
+            <p id="resultado"> 180</p>
+        </h1>
+        <div class="container-keyboard">
+            <button class="clear" onclick="clean()">C</button>
+            <button class="percent" onclick="insert('7')">7</button>
+            <button class="four" onclick="insert('4')">4</button>
+            <button class="one" onclick="insert('1')">1</button>
+            <button class="fas fa-times" onclick="back()"></button>
+            <button class="percent" onclick="insert(' % ')">%</button>
+            <button class="eight" onclick="insert('8')">8</button>
+            <button class="five" onclick="insert('5')">5</button>
+            <button class="two" onclick="insert('2')">2</button> 
+            <button class="zero" onclick="insert('0')">0</button>
+            <button class="change">+/-</button>
+            <button class="nine" onclick="insert('9')">9</button>
+            <button class="six" onclick="insert('6')">6</button>
+            <button class="thre" onclick="insert('3')">3</button>
+            <button class="dot" onclick="insert('.')">.</button>
+            <button class="operationM" onclick="insert(' / ')">/</button>
+            <button class="operationM" onclick="insert(' X ')">X</button>
+            <button class="operationM" onclick="insert(' - ')">-</button>
+            <button class="operationM" onclick="insert(' + ')">+</button>
+            <button class="operationM-equal">=</button>
+        </div>
+    </div>
 </body>
 </html>
