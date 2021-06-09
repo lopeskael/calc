@@ -68,7 +68,7 @@ button:hover{
     color: #FF3A3A;
 }
 .operationM:hover {
-    color: rgb(210, 210, 210)
+    color: rgb(210, 210, 210);
     
 }
 .operationM-equal {
@@ -76,5 +76,5 @@ button:hover{
 }
 
 .operationM-equal:hover  {
-    color: rgb(210, 210, 210)
+    color: rgb(210, 210, 210);
 }
