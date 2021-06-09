@@ -48,8 +48,6 @@
     right: 1%;
     top: 40.3%;
     bottom: 10%;
-    background-color: rgba(190, 45, 93, 0) ;
-    border-radius: 3.7879px;
 }
 .container-keyboard {
     display: grid;
@@ -57,13 +55,22 @@
     
 }
 button {
-    background: rgba(217,217,217,0);
+    background-color: rgba(217,217,217, 0);
     border: hidden;
     cursor: pointer;
+    transition-duration: 0.4s;
 
+}
+button:hover{
+    background-color: #b3a8a8; 
+    color: #FF3A3A;
 }
 .operationM {
     color: #FF3A3A;
+}
+.operationM:hover {
+    color: rgb(210, 210, 210)
+    
 }
 .operationM-equal {
     color: #FF3A3A;
