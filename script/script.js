@@ -16,7 +16,7 @@ function back(){
 }
 
 function calcular(){
-    var resultado = document.getElementById('resultado').innerHTML;
+    var resultado = document.getElementById('operacao').innerHTML;
     if(operacao){
         document.getElementById('resultado').innerHTML = eval(resultado);
     }
