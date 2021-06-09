@@ -4,13 +4,21 @@
 
 
 <p align="center">
-  <img alt="" title="calc" src="assets/calc.jpg" width="1000px" />
+  <img alt="" title="calc" src="assets/calc.jpg" width="800px" />
   
 </p>
 
-#Dia 1 Após 5 horas de trabalho
+##Dia 1 Após 5 horas de trabalho
 
 <p align="center">
-  <img alt="" title="calc" src="assets/calculadora08-06-2021.jpg" width="1000px" />
+  <img alt="" title="calc" src="assets/calculadora08-06-2021.JPG" width="800px" />
   
 </p>
+
+##Dia 1 Após +/- 10 horas de trabalho
+
+<p align="center">
+  <img alt="" title="calc" src="assets/gif/2021-06-08_23h55_37.gif" width="800px" />
+  
+</p>
+
