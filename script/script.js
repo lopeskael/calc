@@ -18,7 +18,6 @@ function alter(){
     let resultado = document.getElementById('resultado').innerHTML;
     parseFloat(resultado);
     resultado *= -1;
-    document.
-    getElementById('resultado').innerHTML = resultado;
+    document.getElementById('resultado').innerHTML = resultado;
 }
 
