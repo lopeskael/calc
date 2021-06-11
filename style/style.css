@@ -1,9 +1,8 @@
 * {
     box-sizing: border-box;
     font-family: "Poppins";
-    font-size: 21px;
-    font: bold;
-    
+    font-size: 30px;
+    font: bold;    
 }
 .muda {
     background-color: #FF3A3A;
@@ -74,7 +73,6 @@ button:hover{
 .operationM-equal {
     color: #FF3A3A;
 }
-
 .operationM-equal:hover  {
     color: rgb(210, 210, 210);
 }
