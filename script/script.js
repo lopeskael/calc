@@ -1,6 +1,7 @@
 function insert(num) {
     var numero = document.getElementById('operacao').innerHTML;
     document.getElementById('operacao').innerHTML = numero + num;
+
 }
 function clean(){
     document.getElementById('operacao').innerHTML = "";
@@ -21,3 +22,11 @@ function alter(){
     document.getElementById('resultado').innerHTML = resultado;
 }
 
+function percento(){
+    var percent = document.getElementById('operacao').innerHTML;
+    var percent1 = parseFloat(percent, 0);
+    var percent2 = percent.slice(-2);
+    parseFloat(percent2); 
+    percent2 = percent2/100;
+    document.getElementById('operacao').innerHTML =  percent1+'*'+percent2;
+}
