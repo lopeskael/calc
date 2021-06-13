@@ -28,7 +28,7 @@
 <li> Ajustada aparencia do botão = para corresponder ao template. </li>
 
 <p align="center">
-  <img alt="" title="calc" src="assets/gif/calculado.gif" width="800px" />
+  <img alt="" title="calc" src="assets/gif/calculado.gif" width="500px" />
 </p>
 
 <hr>
