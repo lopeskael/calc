@@ -34,7 +34,7 @@
 </p>
 
 <p> Decidi usar o eval() para calcular as operações matematicas, pois tentei ao maximo deixar o JavaScript pequeno e funcional.
-    Futuramente pretendo incluir no projeto um .js com as funções separadas para cada botão de operação matematica, porém usar o eval() me ajudou muito a entender como manipular uma string.
+    Futuramente pretendo incluir no projeto um .js com as funções separadas para cada botão de operação matematica, mas usar o eval() me ajudou muito a entender como manipular uma string.
 
 </p>  
 
