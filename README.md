@@ -12,7 +12,7 @@
 
 ##Dia 1 Após 5 horas de trabalho
 
-- Principal desafio estava sendo adequar o botão %, responsavel por converter o numero da porcentagem solicitado, dividitando o valor em 100
+- Principal desafio estava sendo adequar o botão %, responsavel por converter o numero da porcentagem solicitado, dividindo o valor em 100
 - Exemplo: "Quero saber quanto é 25% de 100". Executado na calculadora 100X25 e abertado o botão % Esperado é 25/100 e apresentar o valor na tela após a multiplicação.  
 
 <p align="center">
