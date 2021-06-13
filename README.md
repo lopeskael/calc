@@ -8,6 +8,8 @@
   
 </p>
 
+<hr>
+
 ##Dia 1 Após 5 horas de trabalho
 
 - Principal desafio estava sendo adequar o botão %, responsavel por converter o numero da porcentagem solicitado, dividitando o valor em 100
@@ -17,13 +19,16 @@
   <img alt="" title="calc" src="assets/calculadora08-06-2021.JPG" width="800px" />
 </p>
 
+<hr>
+
 ##Finalização? 
 
-- Resultado após inclusão da funcionalidade nos botões % (divisão de numero para calculo de porcentagem) e ± (conversor de sinal da operação). 
-- Inclusão dos <li> Standard e Scientific com animação de <hr>
-- Ajustada aparencia do botão = para corresponder ao template. 
+<li> Resultado após inclusão da funcionalidade nos botões % (divisão de numero para calculo de porcentagem) e ± (conversor de sinal da operação). </li>
+<li> Inclusão dos li Standard e Scientific com animação de hr no HTML e CSS. </li>
+<li> Ajustada aparencia do botão = para corresponder ao template. </li>
 
 <p align="center">
   <img alt="" title="calc" src="assets/gif/calculado.gif" width="800px" />
 </p>
 
+<hr>
