@@ -27,8 +27,15 @@
 <li> Inclusão dos li Standard e Scientific com animação de hr no HTML e CSS. </li>
 <li> Ajustada aparencia do botão = para corresponder ao template. </li>
 
+<p> </p>
+
 <p align="center">
   <img alt="" title="calc" src="assets/gif/calculado.gif" width="500px" />
 </p>
+
+<p> Decidi usar o eval() para calcular as operações matematicas, pois tentei ao maximo deixar o JavaScript pequeno e funcional.
+    Futuramente pretendo incluir no projeto um .js com as funções separadas para cada botão de operação matematica, porém usar o eval() me ajudou muito a entender como manipular uma string.
+
+</p>  
 
 <hr>
