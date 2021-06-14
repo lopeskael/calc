@@ -1,10 +1,10 @@
 * {
     box-sizing: border-box;
     font-family: "Poppins";
-    font-size: 20px;
+    font-size: 15px;
     font: bold;    
 }
-.muda {
+.background-page {
     background-color: #FF3A3A;
 }
 
@@ -20,7 +20,7 @@
 hr {
     width: 0%;
 }
-li{
+.tipo{
     display:block;
     cursor: pointer;
 }
@@ -47,27 +47,26 @@ li{
 
 .screen {
     position: absolute;
-    left: 7%;
-    right: 15%;
-    top: 25%;
-    bottom: 60%;
+    width: 95%;
+    height: 20%;
+    left: 2.5%;
     background-color:rgba(184, 205, 211, 0);
     border-radius: 3.7879px;
     text-align: right;
 }
-#operacao {
+
+.screen .operacao {
     background-color:rgba(184, 205, 211, 0);
     font-size: small;
-
 }
-#resultado {
 
+.screen .resultado {
     background-color:rgba(184, 205, 211, 0);
-    font-size: larger;
-
+    font-size: xx-large
 }
+
 .container-keyboard {
-    font-size: 30px;
+    font-size: 25px;
     position: absolute;
     left: 8%;
     right: 8%;
@@ -93,7 +92,6 @@ button:hover{
 }
 .operationM:hover {
     color: rgb(210, 210, 210);
-    
 }
 .operationM-equal.btn-outline-danger {
     color:#000000;
