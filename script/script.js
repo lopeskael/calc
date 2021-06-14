@@ -25,7 +25,7 @@ function alter(){
 function percento(){
     var percent = document.getElementById('operacao').innerHTML;
     var percent1 = parseFloat(percent, 0);
-    var percent2 = percent.slice(-2);
+    var percent2 = percent.slice(-1);
     parseFloat(percent2); 
     percent2 = percent2/100;
     document.getElementById('operacao').innerHTML =  percent1+'*'+percent2;
