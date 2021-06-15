@@ -24,6 +24,11 @@ li{
     display:block;
     cursor: pointer;
 }
+
+.tipo{
+    font-family:'DM Sans';
+}
+
 .tipo:hover hr {
     width: 45px;
     background-color: #FF3A3A;
@@ -60,12 +65,12 @@ li{
     font-size: small;
 
 }
-#resultado {
 
+#resultado {
     background-color:rgba(184, 205, 211, 0);
     font-size: larger;
-
 }
+
 .container-keyboard {
     font-size: 30px;
     position: absolute;
